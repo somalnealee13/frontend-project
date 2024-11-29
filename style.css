@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.profileModal {
+  border-radius: 450px;
+  width: 200px;
+  height: 200px;
+}
+
+
+.nav{
+
+background-color: bisque;
+
+
+}
